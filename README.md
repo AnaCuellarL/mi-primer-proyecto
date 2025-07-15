@@ -1,9 +1,3 @@
-# ProgramaciÃ³n 
-
-# Mi Primer Proyecto con Git
-
-Este es el proyecto de prueba para el curso de Fundamentos de ProgramaciÃ³n.
-
-**Autor:** Ana SofÃ­a CuÃ©llar Lozano
-- **Lenguaje favorito:** Python
-- **Hobby:** Escribir poesia
+VimCrypt~03!7Ìkq/ØF˜Ë Åt²´Ê¦×êæYHw»«|àáíduåuq²ßªşv¢h"Égˆ%TXèODš#´f…X#‚î©Sa^BÎÃËeD)ÿd¸8k‰0j5´nZ¶ûÛ-ºKIÓØq¡Ôø.7Bƒª |îÊOâ“®(X.f^‚H×š9j˜àâœ‘ÛnfN)b~şK¹,¬Ş`Xë…ÒÖ—Õ¬ófòéÎ/`#kPæ[feBI1'Sô‚™™R°âYäéT&Jr$„ô_DCAùìŒÓY'eêW¦’u.ü?øì	œ)"BuÔ´^µÚ~ËÂ±S-ßxà’OÎ]?mn¥ªÃ)Âg
+›o;È^°šïQà~òûÂñ\éÕÎWt
+:`V£yÖZ
