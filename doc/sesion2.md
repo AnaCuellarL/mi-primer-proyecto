@@ -9,4 +9,4 @@ Después de ingresado este código debe salir dos veces el enlace anteriormente 
 Despues de esto se debe escribir el código **git push -u origin main** despues de esto se abre una ventana emergente que pide un registro, se ingresa y se da click en ingresar.
 
 Una vez ingresado aparece en Gitbash ya enlazado, finalmente, ya esta subido el repositorio a Git Hub.
-¡[texto](Captura.jpg)
+![texto](Captura.jpg)
